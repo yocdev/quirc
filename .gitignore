@@ -9,3 +9,5 @@ libquirc.so*
 .*.swp
 *~
 .DS_Store
+.vscode/
+images/
